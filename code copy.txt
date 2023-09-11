@@ -1,0 +1,327 @@
+<section>
+  <h2>Trending this week</h2>
+  <p> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Repudiandae quam magnam obcaecati error consequatur repellat fugiat, deleniti nisi eum voluptates.</p>
+  <div class="swiper-container">
+    <div class="swiper">
+      <div class="swiper-wrapper">
+        <div class="swiper-slide swiper-slide--one">
+          <div class="slide-content">
+            <h3><svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 640 512"><path d="M274.9 34.3c-28.1-28.1-73.7-28.1-101.8 0L34.3 173.1c-28.1 28.1-28.1 73.7 0 101.8L173.1 413.7c28.1 28.1 73.7 28.1 101.8 0L413.7 274.9c28.1-28.1 28.1-73.7 0-101.8L274.9 34.3zM200 224a24 24 0 1 1 48 0 24 24 0 1 1 -48 0zM96 200a24 24 0 1 1 0 48 24 24 0 1 1 0-48zM224 376a24 24 0 1 1 0-48 24 24 0 1 1 0 48zM352 200a24 24 0 1 1 0 48 24 24 0 1 1 0-48zM224 120a24 24 0 1 1 0-48 24 24 0 1 1 0 48zm96 328c0 35.3 28.7 64 64 64H576c35.3 0 64-28.7 64-64V256c0-35.3-28.7-64-64-64H461.7c11.6 36 3.1 77-25.4 105.5L320 413.8V448zM480 328a24 24 0 1 1 0 48 24 24 0 1 1 0-48z"/></svg></h3>
+            <p>Jane Eyre is divided into 38 chapters. It was originally published in three volumes in the 19th century...</p>
+            <a href="link-to-jane-eyre" class="btn">Read More</a>
+          </div>
+        </div>
+        <div class="swiper-slide swiper-slide--two">
+          <div class="slide-content">
+            <h3><svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 640 512"><style>svg{fill:#e3e9f2}</style><path d="M192 64C86 64 0 150 0 256S86 448 192 448H448c106 0 192-86 192-192s-86-192-192-192H192zM496 168a40 40 0 1 1 0 80 40 40 0 1 1 0-80zM392 304a40 40 0 1 1 80 0 40 40 0 1 1 -80 0zM168 200c0-13.3 10.7-24 24-24s24 10.7 24 24v32h32c13.3 0 24 10.7 24 24s-10.7 24-24 24H216v32c0 13.3-10.7 24-24 24s-24-10.7-24-24V280H136c-13.3 0-24-10.7-24-24s10.7-24 24-24h32V200z"/></svg></h3>
+            <p>epic high-fantasy novel by the English author and scholar J. R. R. Tolkien</p>
+            <a href="link-to-lotr" class="btn">Read More</a>
+          </div>
+        </div>
+        <div class="swiper-slide swiper-slide--three">
+          <div class="slide-content">
+            <h3><svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 512 512"><style>svg{fill:#d0d8e6}</style><path d="M501.2 76.1c11.1-7.3 14.2-22.1 6.9-33.2s-22.1-14.2-33.2-6.9L370.2 104.5C335.8 98.7 297 96 256 96C114.6 96 0 128 0 208V368c0 31.3 27.4 58.8 72 78.7V344c0-13.3 10.7-24 24-24s24 10.7 24 24V463.4c33 8.9 71.1 14.5 112 16.1V376c0-13.3 10.7-24 24-24s24 10.7 24 24V479.5c40.9-1.6 79-7.2 112-16.1V344c0-13.3 10.7-24 24-24s24 10.7 24 24V446.7c44.6-19.9 72-47.4 72-78.7V208c0-41.1-30.2-69.5-78.8-87.4l67.9-44.5zM307.4 145.6l-64.6 42.3c-11.1 7.3-14.2 22.1-6.9 33.2s22.1 14.2 33.2 6.9l111.1-72.8c14.7 3.2 27.9 7 39.4 11.5C458.4 181.8 464 197.4 464 208c0 .8-2.7 17.2-46 35.9C379.1 260.7 322 272 256 272s-123.1-11.3-162-28.1C50.7 225.2 48 208.8 48 208c0-10.6 5.6-26.2 44.4-41.3C130.6 151.9 187.8 144 256 144c18 0 35.1 .5 51.4 1.6z"/></svg></h3>
+            <p>The book describes the German soldiers' extreme physical and mental trauma during the war</p>
+            <a href="link-to-quiet-front" class="btn">Read More</a>
+          </div>
+        </div>
+        <!-- Add similar code for the remaining cards -->
+      </div>
+    </div>
+    <!-- If we need navigation buttons -->
+    <div class="swiper-button-prev">
+      <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 12h-15m0 0l6.75 6.75M4.5 12l6.75-6.75" />
+      </svg>
+    </div>
+    <div class="swiper-button-next">
+      <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M4.5 12h15m0 0l-6.75-6.75M19.5 12l-6.75 6.75" />
+      </svg>
+    </div>
+  </div>
+</section>
+-------------------------------------------
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+section {
+  position: relative;
+  width: calc(min(47rem, 90%));
+  margin: 0 auto;
+  min-height: 100vh;
+  column-gap: 3rem;
+  padding-block: min(20vh, 3rem);
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  h2 {
+    letter-spacing: 0.8px;
+    font-weight: 700;
+    font-size: 2.6rem;
+    line-height: 1.2;
+  }
+
+  p {
+    font-size: 0.9rem;
+    max-width: 680px;
+    line-height: 1.6;
+    margin-inline: auto;
+    margin-top: 10px;
+  }
+}
+
+.swiper-container {
+  position: relative;
+}
+
+.swiper {
+  width: 100%;
+  padding: 60px 0 95px 0;
+}
+
+.swiper-slide {
+  width: 10rem;
+  height: 22rem;
+  display: flex;
+  flex-direction: column;
+  align-items: self-start;
+  position: relative;
+  border-radius: 12px;
+  box-shadow: -1px 5px 15px #0000001f;
+
+  h3 {
+    color: #fff;
+    font-size: 2.5rem;
+    line-height: 1.4;
+    margin-bottom: 0.625rem;
+    letter-spacing: 0.8px;
+    position: relative;
+    font-family: "Poppins", sans-serif;
+  }
+
+  p {
+    color: #fff;
+    line-height: 1.6;
+    font-size: 0.8rem;
+    font-family: "Poppins", sans-serif;
+  }
+
+  .slide-content {
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -45%);
+    width: 90%;
+  }
+
+  .author {
+    grid-template-columns: 1fr;
+    justify-items: center;
+    position: absolute;
+    bottom: -90px;
+    width: 100%;
+    display: none;
+    opacity: 0;
+
+    span {
+      color: #111;
+      display: block;
+      margin: 5px 0 10px 0;
+      font-weight: 600;
+      font-size: 0.9rem;
+    }
+
+    img {
+      width: 60px;
+      height: 60px;
+      object-fit: cover;
+      border-radius: 50%;
+      border: 3.5px solid white;
+    }
+
+    ul {
+      display: flex;
+      align-items: center;
+
+      li {
+        svg {
+          width: 20px;
+          color: orange;
+        }
+      }
+    }
+  }
+}
+
+.swiper-slide-active .author {
+  display: grid;
+  opacity: 1;
+}
+
+/* Slide Backgrounds */
+.swiper-slide--one {
+  background: #0575e6; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to bottom, #021b79, #0575e6); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to bottom, #021b79, #0575e6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+  h3 {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+  }
+}
+
+.swiper-slide--two {
+  background: #23074d; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to bottom, #cc5333, #23074d); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to bottom, #cc5333, #23074d); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+  h3 {
+    font-family: "Poppins", sans-serif;
+  }
+}
+
+.swiper-slide--three {
+  background: #159957;
+
+  h3 {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+  }
+}
+
+.swiper-slide--four {
+  background: #b06ab3;
+
+  h3 {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+  }
+}
+
+.swiper-slide--five {
+  background: #093028; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to bottom, #237a57, #093028); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to bottom, #237a57, #093028); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+  h3 {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+  }
+}
+
+.swiper-slide--six {
+  background: #b9f; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to bottom, #b9f, #3b2421); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to bottom, #b9f, #3b2421);
+
+  h3 {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+  }
+}
+
+.swiper-button-prev {
+  background: white;
+  border-radius: 50%;
+  top: 47%;
+  left: -30px;
+  width: 50px;
+  height: 50px;
+  box-shadow: 0px 2px 11px rgb(0 0 0 / 17%);
+
+  &::after {
+    font-size: 1.4rem;
+    content: "";
+  }
+
+  svg {
+    width: 25px;
+  }
+}
+
+.swiper-button-next {
+  background: white;
+  border-radius: 50%;
+  top: 47%;
+  right: -30px;
+  width: 50px;
+  height: 50px;
+  box-shadow: 0px 2px 11px rgb(0 0 0 / 17%);
+
+  &::after {
+    font-size: 1.4rem;
+    content: "";
+  }
+
+  svg {
+    width: 25px;
+  }
+}
+
+.swiper-button-prev,
+.swiper-button-next {
+  display: none;
+
+  @media (min-width: 760px) {
+    display: flex;
+  }
+}
+--------------------------------------------------
+/*
+inspiration
+https://cz.pinterest.com/pin/830703093790696716/
+*/
+
+var swiper = new Swiper(".swiper", {
+  effect: "coverflow",
+  grabCursor: true,
+  centeredSlides: true,
+  coverflowEffect: {
+    rotate: 0,
+    stretch: 0,
+    depth: 100,
+    modifier: 4,
+    slideShadows: true
+  },
+  loop: true,
+  // Navigation arrows
+  navigation: {
+    nextEl: ".swiper-button-next",
+    prevEl: ".swiper-button-prev"
+  },
+  keyboard: {
+    enabled: true
+  },
+  mousewheel: {
+    thresholdDelta: 70
+  },
+  breakpoints: {
+    560: {
+      slidesPerView: 2.5
+    },
+    768: {
+      slidesPerView: 3
+    },
+    1024: {
+      slidesPerView: 3
+    }
+  }
+});
+-------------------------------------------------------
+https://cdnjs.cloudflare.com/ajax/libs/Swiper/8.4.5/swiper-bundle.min.js
+https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css
